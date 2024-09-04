@@ -1,0 +1,1 @@
+This is the lab stuff I did for week 7. In short, the example code here is pretty handy if I've got multiple files that are part of the same project, but I need them to work in conjuction together. I might give this a try if a situation like this ever occurs.
